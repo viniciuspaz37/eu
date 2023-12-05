@@ -10,6 +10,10 @@ body {
     width: 30%;
     margin: 50px auto;
 }
+#banner1 {
+    width: 80%;
+    margin: 50px auto;
+}
 
 h1 {
     text-align:center;
